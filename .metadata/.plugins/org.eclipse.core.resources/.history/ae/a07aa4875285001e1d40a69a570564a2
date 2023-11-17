@@ -1,0 +1,5 @@
+package com.atharva.model;
+
+public class UserModel {
+
+}
